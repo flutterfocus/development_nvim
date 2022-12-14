@@ -6,6 +6,9 @@
 
 A minimal config dedicated to dart/flutter development in Nvim.
 
+*Instructions currently NOT included:*
+A breakdown video of this config is in the plans amoung other priortities. Any [sponsorships](https://github.com/sponsors/flutterfocus) or donations are welcome which will allow more dedication to Flutter Focus projects.
+
 **⭐ Star and 👀 watch this repository to be notified of updates.**
 
 https://user-images.githubusercontent.com/61640764/192746601-3fa3a457-dd1f-462f-ba78-22193f35f33e.mp4
@@ -23,7 +26,7 @@ The Flutter Focus mission also contributes to the Dart and the Flutter communiti
 - 📖 [Dart / Flutter Written Tutorials](https://docs.page/flutterfocus/flutterfocus/tutorials)
 - 🧑‍🎓 [Dart / Flutter Video Tutorials](https://www.youtube.com/@flutterfocus) 
 
-### ❤️  Support Flutter Focus 
+### ❤️  Support Flutter Focus
 - 🚀 [Github Sponsors](https://github.com/sponsors/flutterfocus)
 
 ### Need Mobile, Web or Video marketing services? 📱 🌐 📹
