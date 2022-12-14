@@ -1,12 +1,14 @@
 # Flutter Focus Nvim/Nvchad Config
 
-![Flutter Focus Cover](https://github.com/flutterfocus/.github/blob/main/profile/images/cover2.png?raw=true)
+![Flutter Focus Cover](assets/images/github-cover-nvim.png)
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://youtube.com/@flutterfocus) [![Twitter Badge](https://img.shields.io/badge/@Twitter-Profile-informational?style=flat&logo=twitter&logoColor=lightblue&color=1CA2F1)](https://twitter.com/flutterfocus) [![Discord Badge](https://img.shields.io/discord/1048138797893828608?color=blue&label=Discord&logo=discord)](https://discord.gg/rx8mzKzjFM) [![Reddit](https://img.shields.io/reddit/user-karma/link/flutterfocus?style=flat&logo=reddit&label=Reddit)](https://reddit.com/user/flutterfocus)
 
 A minimal config dedicated to dart/flutter development in Nvim.
 
 **⭐ Star and 👀 watch this repository to be notified of updates.**
+
+https://user-images.githubusercontent.com/61640764/192746601-3fa3a457-dd1f-462f-ba78-22193f35f33e.mp4
 
 ## About Flutter Focus
 Flutter Focus specialises in storytelling by mixing Mobile, Web and Video to create interactive multimedia experiences.
